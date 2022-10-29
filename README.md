@@ -9,3 +9,7 @@ computer keyboard
 mouse
 ram
 
+
+thank you for viewing
+
+
