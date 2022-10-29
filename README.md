@@ -7,4 +7,5 @@ monitor
 hard drive
 computer keyboard
 mouse
+ram
 
